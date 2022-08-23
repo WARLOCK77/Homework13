@@ -1,4 +1,6 @@
 /.idea/
 /target/
-.xml
+misc.xml
+vcs.xml
+workspace.xml
 
