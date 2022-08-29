@@ -3,7 +3,7 @@ package ua.levelup.Homework13;
 import java.util.Random;
 
 public class IntegerGenerator implements Generator <Integer>{
-    Random random=new Random();
+    private final Random random=new Random();
 
     @Override
     public Integer getNextRand() {
